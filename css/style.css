@@ -1,0 +1,89 @@
+@font-face{
+	font-family: paradise;
+	src:url("../font/varsity.ttf"); 
+}
+
+@font-face{
+	font-family: Indie Flower;
+	src:url('../fonts/IndieFlower.ttf');
+}
+.letraSena{
+	font-family: Indie Flower;
+
+}
+
+@font-face{
+	font-family: letra;
+	src:url("../font/only.ttf");
+}
+
+.fndimg{
+	width:700px;
+	height: 700px;
+	margin-left:400px;
+	position:fixed;
+}
+
+h1{
+	text-align: center;
+	color: #000000;
+	font-size: 20px;
+	text-transform: uppercase;
+	border-radius:25px;
+	width: 600px;
+	background-color: #33C1FF;
+	margin-left: 400px;
+	font-family: letra;
+
+}
+
+.imagen{
+	width: 200px;
+	height: 200px;
+	margin-left: 20px;
+	float:right;
+
+
+}
+
+
+
+.texto{
+	color: #000;
+	text-align:justify;
+	font-size: 18px;
+	margin: 20px;
+	font-family: paradise;
+
+
+}
+
+.capaizq:hover{
+	background-color: #f26032;
+}
+.capaizq{
+	width: 600px;
+	position: absolute;
+	margin-left:40px;
+	border-radius:25px;
+	background-color:#8B94BB;
+	box-shadow: 15px 15px 15px #708383;
+
+}
+
+.capaderec:hover{
+	background-color: #f26032
+}
+.capaderec{
+	width: 600px;
+	position: absolute;
+	margin-left: 700px;
+	background-color: #8B94BB;
+	border-radius:25px;
+	box-shadow: 15px 15px 15px #708383;
+
+}
+
+.fondo{
+	background-color: #3EBFBF;
+}
